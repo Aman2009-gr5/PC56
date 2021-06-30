@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: rgb(110,104,214);
+background: linear-gradient(90deg, rgba(110,104,214,1) 0%, rgba(39,39,201,1) 45%, rgba(0,212,255,1) 100%);
+color: white;}
+div{
+    margin-top: 20px;
+    font-size:25px;
+}
+.image-section{
+    display:flex;
+    justify-content: center;
+}
+.section-style{
+ margin-left: 25px;
+    margin-right: 25px;
+    background-color:aqua;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
